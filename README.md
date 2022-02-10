@@ -1,4 +1,4 @@
-# _containerd the hard way_
+# _Containerd The Hard Way_
 container runtime중 하나인 containerd를 어렵게😅 설치하는 방법입니다. 하이타워님의 [kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) 스타일로😄 
 
 ## 버전
